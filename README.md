@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Learning new skill
-- 🌱 I’m currently learning Wordpress plugins
+- 🌱 I’m currently learning Wordpress plugins an add ons.
 
 
